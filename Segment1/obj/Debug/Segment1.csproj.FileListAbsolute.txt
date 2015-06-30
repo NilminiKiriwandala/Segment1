@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\bin\Debug\Segment1.exe.config
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\bin\Debug\Segment1.exe
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\bin\Debug\Segment1.pdb
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\obj\Debug\Segment1.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\obj\Debug\Segment1.exe
-C:\Users\Administrator\Desktop\Projects\Segment1\Segment1\obj\Debug\Segment1.pdb
